@@ -1,1 +1,4 @@
 *.lp
+*.mps
+*.txt
+*.ipynb_checkpoints
